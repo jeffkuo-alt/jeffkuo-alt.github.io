@@ -52,11 +52,13 @@ nav {
 
 .hero-content h2 {
     font-size: 48px;
+    color: #4a4a4a; /* 深灰色 */
 }
 
 .hero-content p {
     font-size: 18px;
     margin: 20px 0;
+    color: #4a4a4a; /* 深灰色 */
 }
 
 .btn {
